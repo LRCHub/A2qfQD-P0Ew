@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "青空のラプソディ",
+  "base_artist": "fhána",
+  "createdAt": "2026-02-24T18:02:36.255672Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "青空のラプソディ - TV size",
+      "artist": "fhana",
+      "has_synced": true,
+      "path": "select/01_青空のラプソディ_-_TV_size_fhana.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "青空のラプソディ (TV Size)",
+      "artist": "fhána",
+      "has_synced": false,
+      "path": "select/02_青空のラプソディ_(TV_Size)_fhána.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "青空のラプソディ",
+      "artist": "fhana",
+      "has_synced": true,
+      "path": "select/03_青空のラプソディ_fhana.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "青空のラプソディ",
+      "artist": "fhána",
+      "has_synced": true,
+      "path": "select/04_青空のラプソディ_fhána.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "青空のラプソディ",
+      "artist": "Morfonica",
+      "has_synced": true,
+      "path": "select/05_青空のラプソディ_Morfonica.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "青空のラプソディ",
+      "artist": "Morfonica×fhána",
+      "has_synced": true,
+      "path": "select/06_青空のラプソディ_Morfonica×fhána.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "青空のラプソディ - Rhapsody of Blue Sky",
+      "artist": "fhána",
+      "has_synced": true,
+      "path": "select/07_青空のラプソディ_-_Rhapsody_of_Blue_Sky_fhána.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "青空のラプソディ (TV Size)",
+      "artist": "Kyoto Animation",
+      "has_synced": false,
+      "path": "select/08_青空のラプソディ_(TV_Size)_Kyoto_Animation.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "青空のラプソディ - Cover",
+      "artist": "Morfonica",
+      "has_synced": false,
+      "path": "select/09_青空のラプソディ_-_Cover_Morfonica.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "青空のラプソディ",
+      "artist": "fhána",
+      "has_synced": true,
+      "path": "select/10_青空のラプソディ_fhána.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "青空のラプソディ(作曲賞)",
+      "artist": "fhana",
+      "has_synced": true,
+      "path": "select/11_青空のラプソディ(作曲賞)_fhana.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "青空のラプソディ",
+      "artist": "fhána",
+      "has_synced": false,
+      "path": "select/pl_01_青空のラプソディ_fhána.txt"
+    }
+  ]
+}
